@@ -56,6 +56,13 @@ remove exception
 
 format()
 
+```python
+def testing():
+ print "test"
+ print "="*25
+ print "test"
+```
+
 while loop on a string
 
 <sub>References: Le Goff</sub>
