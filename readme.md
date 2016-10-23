@@ -34,6 +34,13 @@ Add another line to specify the language:
 - `# -*coding: utf-8 -*-`,
 - `# -*coding: latin-1 -*-`.
 
+For example:
+
+```python
+#! /usr/bin/env python 2
+# -*coding: utf-8 -*-
+```
+
 <sub>References: Le Goff</sub>
 
 ## C8 Exceptions
