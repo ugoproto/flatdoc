@@ -14,7 +14,7 @@ way to make open source documentation from *Readme* files.
 
 **This file is a test for feeding flatdoc and check how it renders the inputs.** 
 
-## Section 1, change the language
+## Section 1, Change the language
 
 |Auteur     |Éditeur      |Année      |
 |-----|------|------|
@@ -22,12 +22,12 @@ way to make open source documentation from *Readme* files.
 
 *Characters*
 
-* Try accented character: à â ä; è ê é ë; î; ô, ö; û, ü, ç
-* Special character: ± @ £ ¢ ¤ ¬ ¦ ² ³ ¼ ½ ¾ ¶ ~ ¯ ­
+* Accented characters: à â ä; è ê é ë; î; ô, ö; û, ü, ç
+* Special characters: ± @ £ ¢ ¤ ¬ ¦ ² ³ ¼ ½ ¾ ¶ ~ ¯ ­
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## Section 2, "ups and downs"
+## Section 2, "Ups and Downs"
 
 **Shebang Lines**
 
@@ -93,7 +93,7 @@ while loop on a string
 
 <sub>Addendum: </sub>
 
-## Mix more text with code
+## Section 3, Mix more Text with Code
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
 
