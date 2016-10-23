@@ -12,7 +12,9 @@ way to make open source documentation from *Readme* files.
 * Gorgeous default theme (and it's responsive)
 * Just create an HTML file and deploy!
 
-**This file is a test for feeding flatdoc and check how it renders the inputs.** 
+**This file is a test for feeding flatdoc and check how it renders the inputs.**
+
+To see the Flatdoc result: [click here.](https://ugoproto.github.io/flatdoc/)
 
 ## Section 1, Change the language
 
