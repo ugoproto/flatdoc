@@ -39,6 +39,9 @@ For example:
 ```python
 #! /usr/bin/env python 2
 # -*coding: utf-8 -*-
+
+class First()
+
 ```
 
 <sub>References: Le Goff</sub>
