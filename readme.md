@@ -16,18 +16,21 @@ way to make open source documentation from *Readme* files.
 
 ## Section 1, change the language
 
-Auteur: Vincent Le Goff
-Éditeur: Le Livre du Zéro
-Année: 2011
+|Auteur     |Éditeur      |Année      |
+|-----|------|------|
+|Vincent Le Goff     |Le Livre du Zéro     |2011     |
+|     |      |      |
 
-Try accented character: à â ä; è ê é ë; î; ô, ö; û, ü, ç
-Special character: ± @ £ ¢ ¤ ¬ ¦ ² ³ ¼ ½ ¾ ¶ ~ ¯ ­
+*Characters*
+
+- Try accented character: à â ä; è ê é ë; î; ô, ö; û, ü, ç
+- Special character: ± @ £ ¢ ¤ ¬ ¦ ² ³ ¼ ½ ¾ ¶ ~ ¯ ­
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ## Section 2, "ups and downs"
 
-Shebang Lines
+**Shebang Lines**
 
 Subscript: <sub>Keywords: shebang, top, file, environment, langage, kernel</sub>
 Superscript: <super>Keywords: shebang, top, file, environment, langage, kernel</super>
